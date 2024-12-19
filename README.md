@@ -156,7 +156,5 @@ def rectarea(request):
 ![WhatsApp Image 2024-12-19 at 2 14 06 PM](https://github.com/user-attachments/assets/bed9b597-8f30-45ff-9c25-e2273a43e21b)
 ![WhatsApp Image 2024-12-19 at 2 14 13 PM](https://github.com/user-attachments/assets/ff93a96b-37b4-48c1-aa5e-03397c54176e)
 
-
-
 # RESULT
 The program for performing server side processing is completed successfully.
