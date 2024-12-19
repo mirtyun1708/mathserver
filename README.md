@@ -149,9 +149,7 @@ def rectarea(request):
         print('Area=',area)
     return render(request,'mathapp/math.html',context)
 ```
-
 # OUTPUT
-
 ![WhatsApp Image 2024-12-19 at 2 13 50 PM](https://github.com/user-attachments/assets/41079368-ed9d-464a-8943-9efd44a8cae7)
 ![WhatsApp Image 2024-12-19 at 2 14 06 PM](https://github.com/user-attachments/assets/bed9b597-8f30-45ff-9c25-e2273a43e21b)
 ![WhatsApp Image 2024-12-19 at 2 14 13 PM](https://github.com/user-attachments/assets/ff93a96b-37b4-48c1-aa5e-03397c54176e)
